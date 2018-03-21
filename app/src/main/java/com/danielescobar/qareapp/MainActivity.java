@@ -16,13 +16,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        emg = findViewById(R.id.emg);
+
 
         Bundle extras = getIntent().getExtras();
         if (extras!= null) {
             sCorreoP=String.valueOf(extras.get("correo"));
             sContraseñaP=String.valueOf(extras.get("contraseña1"));
-            emg.setText(sCorreoP + sContraseñaP);
+
 
         }
     }
