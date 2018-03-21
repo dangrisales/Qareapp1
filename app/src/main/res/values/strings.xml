@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Qareapp</string>
+    <string name="Login">Login</string>
+    <string name="User_Name">Usuario o Correo Electronico</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Registro">Registrarse</string>
+    <string name="Correo">E-mail</string>
+    <string name="Example">Example@gmail.com</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="MIPerfil">Mi Perfil</string>
+    <string name="cerrar">Cerra Sesion</string>
+    <string name="Principal">Principal</string>
+    <string name="informacion">Nombre;  Q\'Areapp</string>
+    <string name="nombre">Q\'Areapp</string>
+    <string name="descripcion">Q\'Areapp es una aplicacion pensada para mejorar
+                                la forma de llevar la contabilidad en una trilladora. Pero
+                                Q\'Areapp no solo es una herramienta de calculo, es mas
+                                que eso, es un asistente personalizado que te ayudara a: \n
+                                * Tener un trato mas personalizado con los clientes\n
+                                * Llevar un control exacto de tus productos\n
+                                * Podras visualizar cada ruta en tiempo real, para saber como van tus envios\n
+                                * La aplicacion te notificara si tu materia prima se esta agotando\n
+                                Q\'Areapp te ofrece estas y muchas ventajas mas.
+
+                               </string>
 </resources>
