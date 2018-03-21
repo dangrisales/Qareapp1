@@ -8,7 +8,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.EditText;
 import android.widget.Toast;
-
+// Version 1.6
 public class MainActivity extends AppCompatActivity {
     String sCorreoP, sContraseñaP;
 
